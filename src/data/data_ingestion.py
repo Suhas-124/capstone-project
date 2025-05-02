@@ -76,8 +76,7 @@ def main():
         # test_size = 0.2
         
         df = load_data(data_url='https://raw.githubusercontent.com/vikashishere/Datasets/refs/heads/main/data.csv')
-        # s3 = s3_connection.s3_operations("capston-bucketdetails", "AKIAZRG4YZA2R4B7YYAC", "yM+UUrtompxUvoPgxyN6RXJKZW4fF2e2UwKUT2OI")
-        # df = s3.fetch_file_from_s3("data.csv")
+        
 
 
 
